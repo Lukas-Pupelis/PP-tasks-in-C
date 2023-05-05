@@ -1,3 +1,11 @@
+/*
+This program takes an integer value N as input, followed by N integers.
+ It then splits the array of integers into two subarrays,
+ one containing all the negative integers and the other containing all the non-negative integers. 
+ After sorting both subarrays,
+ the program calculates the sum of the product of the corresponding elements in each subarray and prints the result.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
